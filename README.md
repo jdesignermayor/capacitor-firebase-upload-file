@@ -19,7 +19,7 @@ NOTE: The plugin its supports only for Android also the compress its only availa
 Install the plugin into your Capacitor project with npm.
 
 ```
-npm install --save coru-uploadfiles-plugin@0.0.2
+npm install --save capacitor-firebase-upload-file@0.0.1
 ```
 
 ## How to use on JavaAndroid
