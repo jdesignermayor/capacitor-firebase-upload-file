@@ -163,7 +163,7 @@ public class FirebaseUploadFile extends Plugin {
                                 }
                             }
                     );
-        }
+            }
         } catch (Exception e) {
             ret.put("status", "error");
             ret.put("response", e);

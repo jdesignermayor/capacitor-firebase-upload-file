@@ -74,7 +74,7 @@ Use the Plugin with a simple Promise:
 ```
 
 ## Parameters
-| parameter |   |
+| Parameters | Details |
 |----------|:-:|
 | fileLocalName      |Name with which previously saved due                         |
 | fileNewStorageName        |Name of the file to be saved to storage, example: myfile.mp4 |
@@ -83,9 +83,10 @@ Use the Plugin with a simple Promise:
 
 ## Response
 
-| response |   |
+| Parameters | Details  |
 |----------|:-:|
-| success      | upload your file perfectly |
-| error        | Display the so error       |
+| status      | return success or error  |
+| response    | return the message       |
+| downloadUrl | return the public url    |
 
 
